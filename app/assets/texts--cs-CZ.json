@@ -93,12 +93,12 @@
     "itemsCollection": [
       {
         "id": 1,
-        "content": "[\"červen a září\", \"3250,-Kč/ 130 €\", \"za 1 noc\"]",
+        "content": "[\"červen a září\", \"3500,-Kč/ 140 €\", \"za 1 noc\"]",
         "isBold": false
       },
       {
         "id": 2,
-        "content": "[\"červenec, srpen\", \"3750 Kč/ 150 €\", \"za 1 noc\"]",
+        "content": "[\"červenec, srpen\", \"4000 Kč/ 160 €\", \"za 1 noc\"]",
         "isBold": true
       },
       {
